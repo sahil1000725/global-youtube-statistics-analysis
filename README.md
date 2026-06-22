@@ -95,16 +95,16 @@ The dataset contains information such as:
 ### Correlation Heatmap
 
 ![Heatmap](<img width="1003" height="647" alt="Screenshot 2026-06-22 132039" src="https://github.com/user-attachments/assets/ee6849a4-585b-4a30-9cf5-1ea7d3621abb" />
-)
+/)
 
 ### Top Channels Analysis
 
-![Top Channels](<img width="1386" height="677" alt="Screenshot 2026-06-22 132019" src="https://github.com/user-attachments/assets/b390282b-f383-460a-bc21-8b6c9352c9ac" />
+![Top Channels](<img width="1386" height="677" alt="Screenshot 2026-06-22 132019" src="https://github.com/user-attachments/assets/b390282b-f383-460a-bc21-8b6c9352c9ac" /
 )
 
 ### Subscriber Distribution
 
-![Subscribers](<img width="1457" height="622" alt="Screenshot 2026-06-22 131954" src="https://github.com/user-attachments/assets/c1b4769f-4f88-41ab-8dde-aed3fb026177" />
+![Subscribers](<img width="1457" height="622" alt="Screenshot 2026-06-22 131954" src="https://github.com/user-attachments/assets/c1b4769f-4f88-41ab-8dde-aed3fb026177" /
 )
 
 ---
